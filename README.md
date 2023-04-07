@@ -1,8 +1,8 @@
-# oneNeuron python package
+# Sachin Test python package
 
 ## How to use this package
 ```python
-from oneNeuron.perceptron import Perceptron
+from sachin.perceptron import Perceptron
 model = Perceptron(eta=0.3, epochs=10)
 ```
 
